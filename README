@@ -1,0 +1,30 @@
+# Lista Encadeada em C++
+
+Este é um programa em C++ que implementa uma lista encadeada simples com operações de inserção, busca, remoção e exibição.
+
+
+## Como compilar e executar
+
+Para compilar o programa, você pode usar o compilador g++ da seguinte maneira:
+- g++ -o programa main.cpp Celula.cpp ListaEncadeada.cpp
+
+Após a compilação bem-sucedida, um arquivo executável chamado `programa` será gerado. Você pode executá-lo com o seguinte comando:
+- ./programa
+Ou executando o arquivo programa.exe clicando duas vezes.
+Isso iniciará o programa, que apresentará um menu de operações para interagir com a lista encadeada.
+
+
+## Menu de Operações
+
+O programa apresenta as seguintes operações no menu:
+1 - Inserir elemento: (Insere um novo elemento na lista encadeada).
+2 - Buscar elemento: (Busca um elemento na lista encadeada).
+3 - Remover elemento: (Remove um elemento da lista encadeada).
+4 - Exibir lista: (Exibe todos os elementos da lista encadeada).
+0 - Sair: (Encerra o programa).
+
+Você pode selecionar a operação desejada digitando o número correspondente ao menu e seguindo as instruções fornecidas.
+
+Autor: Matheus Gonçalves Ferreira
+Github: https://github.com/Matheus1gf
+LinkedIn: https://www.linkedin.com/in/matheus-ferreira-1601/
